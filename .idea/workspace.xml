@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd2b727b-10dc-46ca-b48b-972e7b08ae5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQ5JCEctT0Dj4GXwMYAjjigCOP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.exercise_6">
+    <configuration name="exercise_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Borodin_Andrey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Borodin_Andrey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Borodin_Andrey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Borodin_Andrey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="less4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Borodin_Andrey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../less4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../less4/less4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exercise_6" />
+        <item itemvalue="Python.exercise_4" />
+        <item itemvalue="Python.exercise_3" />
+        <item itemvalue="Python.exercise_2" />
+        <item itemvalue="Python.less4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd2b727b-10dc-46ca-b48b-972e7b08ae5e" name="Default Changelist" comment="" />
+      <created>1580965404570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580965404570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580968005609">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="0" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.832@0.23.1440.832" timestamp="1580966768231" />
+    <state x="0" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1580968005609" />
+    <state x="112" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580966086273">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="112" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.832@0.23.1440.832" timestamp="1580966086273" />
+    <state width="777" height="267" key="GridCell.Tab.0.bottom" timestamp="1580992558409">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1419" height="215" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580991829845" />
+    <state width="777" height="267" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1580992558409" />
+    <state width="777" height="215" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1580991791894" />
+    <state width="777" height="267" key="GridCell.Tab.0.center" timestamp="1580992558408">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1419" height="215" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580991829844" />
+    <state width="777" height="267" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1580992558408" />
+    <state width="777" height="215" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1580991791893" />
+    <state width="777" height="267" key="GridCell.Tab.0.left" timestamp="1580992558408">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1419" height="215" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580991829843" />
+    <state width="777" height="267" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1580992558408" />
+    <state width="777" height="215" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1580991791893" />
+    <state width="777" height="267" key="GridCell.Tab.0.right" timestamp="1580992558408">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1419" height="215" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580991829845" />
+    <state width="777" height="267" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1580992558408" />
+    <state width="777" height="215" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1580991791894" />
+    <state width="777" height="267" key="GridCell.Tab.1.bottom" timestamp="1580992558411">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="777" height="267" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1580992558411" />
+    <state width="777" height="267" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1580983723003" />
+    <state width="777" height="267" key="GridCell.Tab.1.center" timestamp="1580992558409">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="777" height="267" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1580992558409" />
+    <state width="777" height="267" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1580983723002" />
+    <state width="777" height="267" key="GridCell.Tab.1.left" timestamp="1580992558409">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="777" height="267" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1580992558409" />
+    <state width="777" height="267" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1580983723002" />
+    <state width="777" height="267" key="GridCell.Tab.1.right" timestamp="1580992558410">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="777" height="267" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1580992558410" />
+    <state width="777" height="267" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1580983723002" />
+    <state x="0" y="250" key="com.intellij.ide.util.TipDialog" timestamp="1580992598614">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="0" y="250" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1580965419785" />
+    <state x="0" y="250" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1580992598614" />
+    <state x="64" y="180" width="670" height="678" key="search.everywhere.popup" timestamp="1580991661687">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="64" y="169" width="670" height="731" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580974773863" />
+    <state x="64" y="179" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1580966789668" />
+    <state x="64" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1580970435006" />
+    <state x="64" y="180" width="670" height="678" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1580991661687" />
+  </component>
+</project>
